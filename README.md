@@ -2,7 +2,7 @@
 
 Your task (whether you choose to accept it or not?) is to manipulate the DOM in the following ways:
 
-* Change the font color of the paragraph to light blue.
+
 * Change the font size of the heading to 5 em.
 * Change the text of the paragraph to be the following Hipster Ipsum:
 
